@@ -2,7 +2,7 @@
 layout: post
 title: '한 줄 기록 - 개인정보처리방침'
 description: 한 줄 기록
-date: 2022-02-10 21:03:36 +0530
+date: 2022-02-09 21:03:36 +0530
 categories: policy
 ---
 
